@@ -5,36 +5,29 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are a snapshot of the software and data
-that were used in the research reported on in the paper 
-[This is a Template](https://doi.org/10.1287/ijoc.2019.0000) by T. Ralphs. 
-The snapshot is based on 
-[this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) 
-in the development repository. 
-
-**Important: This code is being developed on an on-going basis at 
-https://github.com/tkralphs/JoCTemplate. Please go there if you would like to
-get a more recent version or would like support**
+The data in this repository exemplifies the data
+that was used in the research reported on in the paper 
+[An Optimization-based Scheduling Methodology for Appointment Systems with Heterogeneous Customers and Non-stationary Arrival Processes](https://doi.org/10.1287/ijoc.2023.0039) by S. Chatterjee, Y. Hebaish, H. Aprahamian and L.Ntaimo. 
 
 ## Cite
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
-https://doi.org/10.1287/ijoc.2019.0000
+https://doi.org/10.1287/ijoc.2023.0039
 
-https://doi.org/10.1287/ijoc.2019.0000.cd
+https://doi.org/10.1287/ijoc.2023.0039.cd
 
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{CacheTest,
-  author =        {T. Ralphs},
+@article{chatterjee2024,
+  author =        {Chatterjee, S. and Hebaish, Y. and Aprahamian, H. and Ntaimo, L.},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest}},
-  year =          {2020},
-  doi =           {10.1287/ijoc.2019.0000.cd},
-  url =           {https://github.com/INFORMSJoC/2019.0000},
-  note =          {Available for download at https://github.com/INFORMSJoC/2019.0000},
+  title =         {{An Optimization-based Scheduling Methodology for Appointment Systems with Heterogeneous Customers and Non-stationary Arrival Processes}},
+  year =          {2023},
+  doi =           {10.1287/ijoc.2023.0039.cd},
+  url =           {https://github.com/INFORMSJoC/2023.0039},
+  note =          {Available for download at https://github.com/INFORMSJoC/2023.0039},
 }  
 ```
 
