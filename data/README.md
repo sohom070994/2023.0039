@@ -1,4 +1,5 @@
 # Data for replication
+This file defines the various datasets used in the paper, specifically regarding the arrival rate of the customers, and details on the various scheduling policies used in the paper.
 
 ## Arrival Rates
 The ArrivalRates.xlsx file includes the mean arrival rates (in arrivals/hr) for first-time and crisis services across the 18 weeks of the semester. 
