@@ -33,4 +33,4 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ## Description
 
-The [data folder](data) includes the arrival rate data for first-time and crisis customers and the optimal schedule proportions for both service types for all the cases in Table 1 of the paper. The Python codes and Simio files are available upon request.
+The [data folder](data) includes the arrival rate data for first-time and crisis customers and the optimal schedule proportions for both service types for all the cases in Table 1 and Figure 9 of the paper. The Python codes and Simio files are available upon request.
