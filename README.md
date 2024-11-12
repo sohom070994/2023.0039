@@ -24,7 +24,7 @@ Below is the BibTex for citing this snapshot of the repository.
   author =        {Chatterjee, S. and Hebaish, Y. and Aprahamian, H. and Ntaimo, L.},
   publisher =     {INFORMS Journal on Computing},
   title =         {{An Optimization-based Scheduling Methodology for Appointment Systems with Heterogeneous Customers and Non-stationary Arrival Processes}},
-  year =          {2023},
+  year =          {2024},
   doi =           {10.1287/ijoc.2023.0039.cd},
   url =           {https://github.com/INFORMSJoC/2023.0039},
   note =          {Available for download at https://github.com/INFORMSJoC/2023.0039},
