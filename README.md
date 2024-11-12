@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The data in this repository exemplifies the data
 that was used in the research reported on in the paper 
-[An Optimization-based Scheduling Methodology for Appointment Systems with Heterogeneous Customers and Non-stationary Arrival Processes](https://doi.org/10.1287/ijoc.2023.0039) by S. Chatterjee, Y. Hebaish, H. Aprahamian and L.Ntaimo. 
+[An Optimization-based Scheduling Methodology for Appointment Systems with Heterogeneous Customers and Non-stationary Arrival Processes](https://doi.org/10.1287/ijoc.2023.0039) by S. Chatterjee, Y. Hebaish, H. Aprahamian and L. Ntaimo. 
 
 ## Cite
 
