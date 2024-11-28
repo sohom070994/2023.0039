@@ -342,10 +342,9 @@ def getPolicy(reg, cris, change_freq):
 
 #%% Final Simulation
 # range of average proportion values for each service
-# crisis_props=[i for i in range(3,6)]
-# reg_props=[i for i in range(7,10)]
-reg_props=[8]
-crisis_props=[4]
+crisis_props=[i for i in range(3,6)]
+reg_props=[i for i in range(7,10)]
+
 for rp in tqdm(reg_props):
     for cp in tqdm(crisis_props):
         #calculate upper bound for each service

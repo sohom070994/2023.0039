@@ -290,12 +290,11 @@ def compute_SSiSt(lambda_r,regular_slots):
 # MAIN FUNCTION
 
 if __name__ == '__main__':
-    # set the planning horizon
+    # set the planning horizon length and upper bound
     planning_horizon = 200
+    Ub = 50
     slots = planning_horizon
     pop = slots
-    # set the upper bound
-    Ub = 50
     #start time
     start_time = time.time()
     
